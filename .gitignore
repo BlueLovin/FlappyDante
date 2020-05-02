@@ -338,3 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+FlappyBird/Content/hiclipart.com.png
+FlappyBird/Content/pipe.psd
+FlappyBird/Content/dante.jpg
+FlappyBird/Content/dante.psd
+FlappyBird/Content/pipe.psd
+FlappyBird/Content/pipe.psd
+*.psd
